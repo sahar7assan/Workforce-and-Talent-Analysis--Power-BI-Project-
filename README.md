@@ -166,5 +166,10 @@ Team Member:
 Data Analyst | Power BI Developer
 
 ---
+## 🚀 Interactive Dashboard
+
+Explore the live Power BI report here:
+
+🔗 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE1ZDUxNmUtNGJjYy00MGI5LTk0NmQtYzA1MjRhZjI0MDMzIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9)**
 
 ⭐ If you found this project useful, consider giving it a star.
