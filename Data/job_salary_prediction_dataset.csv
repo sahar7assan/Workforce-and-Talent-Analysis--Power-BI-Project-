@@ -1,0 +1,471 @@
+job_title,experience_years,education_level,skills_count,industry,company_size,location,remote_work,certifications,salary
+AI Engineer,20,PhD,11,Consulting,Enterprise,USA,Yes,4,333046
+AI Engineer,19,PhD,10,Government,Enterprise,USA,No,5,328616
+AI Engineer,18,PhD,16,Technology,Enterprise,USA,Hybrid,5,327217
+AI Engineer,17,PhD,18,Manufacturing,Enterprise,USA,Hybrid,5,327025
+AI Engineer,19,PhD,17,Manufacturing,Enterprise,USA,No,0,325052
+AI Engineer,20,PhD,4,Telecom,Enterprise,USA,Yes,4,324583
+AI Engineer,19,PhD,16,Consulting,Enterprise,USA,Yes,1,324505
+AI Engineer,18,PhD,15,Telecom,Enterprise,USA,No,4,323985
+AI Engineer,18,PhD,16,Telecom,Enterprise,USA,No,5,323423
+AI Engineer,17,PhD,16,Retail,Enterprise,USA,Yes,3,321127
+AI Engineer,20,PhD,8,Education,Enterprise,USA,Yes,5,317497
+Machine Learning Engineer,18,PhD,18,Healthcare,Enterprise,USA,Yes,3,317377
+AI Engineer,20,Master,19,Education,Enterprise,USA,No,5,315928
+Machine Learning Engineer,19,PhD,16,Telecom,Enterprise,USA,Yes,3,315291
+AI Engineer,19,PhD,2,Finance,Enterprise,USA,Yes,2,314829
+AI Engineer,19,Master,13,Retail,Enterprise,USA,Yes,5,314060
+Machine Learning Engineer,20,PhD,9,Healthcare,Enterprise,USA,Hybrid,5,313157
+AI Engineer,13,PhD,15,Retail,Enterprise,USA,Yes,5,312367
+Machine Learning Engineer,19,PhD,7,Consulting,Enterprise,USA,Yes,2,311919
+Machine Learning Engineer,20,PhD,18,Consulting,Enterprise,USA,Hybrid,3,309957
+AI Engineer,16,PhD,18,Media,Enterprise,USA,Hybrid,2,309091
+AI Engineer,18,PhD,11,Telecom,Enterprise,USA,Hybrid,2,308911
+AI Engineer,15,PhD,17,Media,Enterprise,USA,No,5,308894
+AI Engineer,14,PhD,19,Government,Enterprise,USA,No,4,308459
+AI Engineer,15,PhD,17,Consulting,Enterprise,USA,Hybrid,4,307906
+AI Engineer,16,PhD,9,Healthcare,Enterprise,USA,Yes,2,307093
+AI Engineer,15,PhD,9,Manufacturing,Enterprise,USA,Hybrid,5,306955
+AI Engineer,19,PhD,19,Government,Large,USA,Yes,5,306036
+AI Engineer,14,PhD,17,Consulting,Enterprise,USA,Hybrid,4,305842
+AI Engineer,17,PhD,6,Media,Enterprise,USA,Yes,4,305515
+AI Engineer,19,PhD,8,Finance,Enterprise,USA,Hybrid,2,305434
+DevOps Engineer,20,PhD,17,Retail,Enterprise,USA,Yes,4,304968
+AI Engineer,17,Master,12,Retail,Enterprise,USA,Yes,3,304487
+AI Engineer,17,PhD,15,Finance,Enterprise,USA,Hybrid,4,303882
+AI Engineer,14,PhD,16,Education,Enterprise,USA,Hybrid,4,303397
+Cybersecurity Analyst,20,PhD,15,Finance,Enterprise,USA,Yes,5,303178
+AI Engineer,19,PhD,19,Finance,Enterprise,UK,Yes,5,303039
+AI Engineer,19,PhD,16,Retail,Large,USA,Yes,5,302707
+AI Engineer,12,PhD,13,Finance,Enterprise,USA,Yes,5,301995
+AI Engineer,20,PhD,18,Media,Enterprise,Canada,Hybrid,4,301628
+Product Manager,20,PhD,14,Education,Enterprise,USA,Yes,3,301294
+Machine Learning Engineer,20,Master,18,Technology,Enterprise,USA,Yes,2,300764
+Product Manager,17,PhD,18,Government,Enterprise,USA,Yes,3,300640
+Machine Learning Engineer,19,PhD,16,Government,Enterprise,USA,No,3,300503
+AI Engineer,14,PhD,19,Education,Enterprise,USA,Hybrid,3,300052
+AI Engineer,19,Master,9,Media,Enterprise,USA,Yes,0,299911
+AI Engineer,19,PhD,6,Healthcare,Enterprise,USA,Hybrid,0,299213
+AI Engineer,18,Master,18,Telecom,Enterprise,USA,Hybrid,1,299036
+AI Engineer,19,Master,6,Education,Enterprise,USA,Yes,3,298982
+Product Manager,19,PhD,14,Consulting,Enterprise,USA,Hybrid,5,298707
+AI Engineer,15,Master,17,Retail,Enterprise,USA,Hybrid,5,298656
+AI Engineer,19,Bachelor,13,Telecom,Enterprise,USA,Yes,5,298070
+AI Engineer,16,PhD,11,Healthcare,Enterprise,USA,No,4,297906
+Machine Learning Engineer,18,PhD,13,Government,Enterprise,USA,Hybrid,4,297218
+Product Manager,18,PhD,14,Healthcare,Enterprise,USA,No,4,296998
+Machine Learning Engineer,20,PhD,4,Healthcare,Enterprise,USA,Yes,1,296970
+Product Manager,19,PhD,18,Retail,Enterprise,USA,No,0,296787
+AI Engineer,20,PhD,3,Telecom,Large,USA,Yes,5,296531
+AI Engineer,20,PhD,18,Retail,Enterprise,Canada,Hybrid,1,296446
+AI Engineer,20,Master,18,Government,Enterprise,Canada,Yes,5,296297
+AI Engineer,17,PhD,6,Consulting,Enterprise,USA,Hybrid,2,296167
+AI Engineer,15,PhD,18,Manufacturing,Enterprise,Canada,Yes,5,295943
+Machine Learning Engineer,19,PhD,15,Education,Enterprise,USA,No,2,295862
+AI Engineer,18,PhD,17,Telecom,Enterprise,Canada,Hybrid,1,295811
+AI Engineer,20,Master,4,Manufacturing,Enterprise,USA,No,5,295796
+Product Manager,16,PhD,19,Consulting,Enterprise,USA,No,5,295760
+AI Engineer,18,PhD,17,Government,Enterprise,Canada,No,5,295531
+AI Engineer,19,PhD,19,Manufacturing,Large,USA,Hybrid,1,295375
+AI Engineer,20,PhD,12,Education,Large,USA,Yes,2,295249
+AI Engineer,20,PhD,1,Manufacturing,Enterprise,Canada,Hybrid,3,295224
+Machine Learning Engineer,17,PhD,9,Consulting,Enterprise,USA,No,4,294914
+Cybersecurity Analyst,20,PhD,11,Government,Enterprise,USA,No,4,294859
+AI Engineer,19,PhD,10,Finance,Enterprise,Canada,Yes,5,294433
+DevOps Engineer,20,PhD,17,Manufacturing,Enterprise,USA,Yes,1,294374
+AI Engineer,19,PhD,12,Manufacturing,Enterprise,Canada,Yes,0,294341
+Product Manager,20,PhD,19,Consulting,Enterprise,USA,No,3,294281
+AI Engineer,19,Master,9,Technology,Enterprise,USA,Yes,2,294272
+Product Manager,16,PhD,17,Finance,Enterprise,USA,Yes,4,294132
+AI Engineer,16,PhD,13,Media,Enterprise,Canada,Yes,4,294016
+AI Engineer,16,PhD,18,Consulting,Large,USA,Yes,0,293816
+Product Manager,19,Master,18,Manufacturing,Enterprise,USA,No,0,293673
+AI Engineer,20,Bachelor,7,Manufacturing,Enterprise,USA,Yes,4,293603
+AI Engineer,20,PhD,6,Manufacturing,Enterprise,Canada,No,4,293352
+AI Engineer,20,Diploma,19,Education,Enterprise,USA,Yes,4,293306
+Cloud Engineer,20,PhD,16,Finance,Enterprise,USA,No,4,292855
+AI Engineer,16,PhD,7,Manufacturing,Enterprise,USA,No,3,292841
+AI Engineer,16,PhD,7,Government,Enterprise,USA,No,3,292748
+Machine Learning Engineer,16,PhD,19,Consulting,Enterprise,USA,No,4,292711
+Cloud Engineer,18,PhD,8,Healthcare,Enterprise,USA,Yes,5,292546
+AI Engineer,19,Bachelor,12,Telecom,Enterprise,USA,Yes,4,292479
+Machine Learning Engineer,18,PhD,15,Finance,Enterprise,USA,No,1,292456
+Product Manager,20,Master,15,Manufacturing,Enterprise,USA,Yes,4,292401
+DevOps Engineer,19,PhD,19,Government,Enterprise,USA,Hybrid,3,292155
+Machine Learning Engineer,20,PhD,5,Government,Enterprise,USA,No,1,292099
+AI Engineer,8,PhD,17,Telecom,Enterprise,USA,Yes,3,292052
+Cybersecurity Analyst,20,PhD,18,Retail,Enterprise,USA,Hybrid,3,291946
+AI Engineer,18,PhD,14,Media,Large,USA,Yes,3,291789
+AI Engineer,20,PhD,18,Retail,Large,USA,No,5,291690
+Cybersecurity Analyst,18,PhD,15,Retail,Enterprise,USA,Yes,4,291477
+AI Engineer,19,PhD,6,Consulting,Enterprise,Canada,Yes,3,291362
+AI Engineer,19,PhD,17,Education,Large,USA,Hybrid,1,291362
+Machine Learning Engineer,17,PhD,14,Government,Enterprise,USA,No,3,291326
+AI Engineer,15,Master,19,Telecom,Enterprise,USA,Hybrid,5,291276
+AI Engineer,19,Diploma,14,Consulting,Enterprise,USA,Yes,3,291189
+AI Engineer,19,Diploma,15,Government,Enterprise,USA,Yes,5,290997
+AI Engineer,15,PhD,11,Education,Enterprise,USA,Hybrid,2,290978
+AI Engineer,13,PhD,11,Government,Enterprise,USA,Yes,0,290922
+AI Engineer,18,PhD,12,Consulting,Enterprise,Canada,Yes,0,290905
+AI Engineer,16,PhD,14,Telecom,Large,USA,Hybrid,5,290803
+AI Engineer,17,PhD,11,Manufacturing,Large,USA,No,5,290787
+Product Manager,20,PhD,6,Media,Enterprise,USA,Hybrid,3,290529
+Backend Developer,18,PhD,18,Media,Enterprise,USA,Yes,5,290512
+Machine Learning Engineer,16,PhD,14,Retail,Enterprise,USA,Yes,1,290373
+Machine Learning Engineer,19,PhD,1,Retail,Enterprise,USA,Yes,0,290266
+AI Engineer,14,Master,11,Government,Enterprise,USA,Yes,4,289966
+AI Engineer,20,Diploma,16,Healthcare,Enterprise,USA,No,5,289860
+Cybersecurity Analyst,20,PhD,9,Healthcare,Enterprise,USA,Yes,4,289725
+AI Engineer,19,Master,1,Retail,Enterprise,USA,No,4,289661
+Machine Learning Engineer,12,PhD,18,Retail,Enterprise,USA,Yes,4,289214
+Cybersecurity Analyst,17,PhD,17,Finance,Enterprise,USA,Yes,3,289024
+Machine Learning Engineer,19,Master,11,Retail,Enterprise,USA,Hybrid,5,289022
+AI Engineer,16,Master,10,Government,Enterprise,USA,No,2,288703
+Cloud Engineer,17,PhD,17,Retail,Enterprise,USA,Yes,2,288694
+Product Manager,20,PhD,17,Healthcare,Large,USA,Yes,3,288557
+AI Engineer,13,Master,19,Manufacturing,Enterprise,USA,Hybrid,3,288485
+Product Manager,18,PhD,5,Technology,Enterprise,USA,Yes,2,288447
+AI Engineer,14,Master,10,Media,Enterprise,USA,No,2,288421
+Data Scientist,19,Master,18,Manufacturing,Enterprise,USA,Yes,5,288049
+Machine Learning Engineer,19,PhD,19,Media,Enterprise,UK,Yes,4,288003
+AI Engineer,20,High School,13,Education,Enterprise,USA,Yes,3,287961
+Product Manager,16,PhD,13,Manufacturing,Enterprise,USA,Yes,1,287960
+Machine Learning Engineer,20,Master,9,Media,Enterprise,USA,Yes,1,287898
+AI Engineer,15,PhD,15,Manufacturing,Large,USA,Yes,4,287891
+Product Manager,13,PhD,18,Education,Enterprise,USA,Hybrid,4,287539
+AI Engineer,17,Master,16,Healthcare,Enterprise,USA,No,3,287524
+Product Manager,20,Master,16,Telecom,Enterprise,USA,Hybrid,2,287344
+AI Engineer,18,PhD,19,Consulting,Enterprise,UK,Yes,5,287323
+Machine Learning Engineer,15,PhD,8,Media,Enterprise,USA,No,5,287298
+Cloud Engineer,18,PhD,8,Media,Enterprise,USA,Yes,5,287267
+Machine Learning Engineer,20,PhD,14,Manufacturing,Enterprise,Canada,No,5,287183
+Machine Learning Engineer,16,PhD,7,Media,Enterprise,USA,No,5,287155
+Cybersecurity Analyst,20,PhD,16,Telecom,Enterprise,USA,Hybrid,4,287115
+AI Engineer,19,High School,16,Media,Enterprise,USA,Yes,5,286904
+Machine Learning Engineer,19,PhD,19,Manufacturing,Large,USA,No,3,286878
+Product Manager,19,PhD,5,Finance,Enterprise,USA,Yes,4,286801
+Data Scientist,20,PhD,13,Consulting,Enterprise,USA,No,4,286777
+AI Engineer,19,High School,15,Technology,Enterprise,USA,Yes,3,286603
+AI Engineer,20,Bachelor,11,Media,Enterprise,USA,No,2,286540
+DevOps Engineer,18,Master,19,Manufacturing,Enterprise,USA,Yes,5,286440
+AI Engineer,20,PhD,14,Finance,Enterprise,Germany,Yes,4,286402
+Product Manager,20,PhD,19,Media,Large,USA,Hybrid,3,286384
+AI Engineer,19,PhD,10,Government,Enterprise,UK,Yes,4,286312
+AI Engineer,20,PhD,3,Government,Large,USA,Yes,4,286242
+AI Engineer,18,PhD,11,Education,Enterprise,UK,Hybrid,5,286178
+Machine Learning Engineer,12,PhD,10,Technology,Enterprise,USA,Yes,4,286163
+Machine Learning Engineer,12,PhD,18,Education,Enterprise,USA,Yes,1,286058
+Product Manager,20,PhD,13,Consulting,Enterprise,Canada,Yes,4,285876
+Machine Learning Engineer,20,PhD,5,Education,Enterprise,USA,Hybrid,1,285846
+Product Manager,20,PhD,18,Technology,Large,USA,Hybrid,4,285840
+Machine Learning Engineer,20,PhD,11,Media,Enterprise,Canada,Yes,4,285658
+DevOps Engineer,20,PhD,19,Manufacturing,Enterprise,USA,Hybrid,0,285632
+DevOps Engineer,20,Master,12,Manufacturing,Enterprise,USA,Yes,4,285629
+AI Engineer,19,Master,19,Media,Large,USA,Hybrid,1,285576
+Cloud Engineer,17,PhD,16,Retail,Enterprise,USA,Yes,2,285452
+Machine Learning Engineer,17,PhD,10,Technology,Enterprise,Canada,Yes,3,285292
+AI Engineer,20,Bachelor,6,Healthcare,Enterprise,USA,Hybrid,5,285158
+AI Engineer,20,PhD,19,Education,Enterprise,UK,Hybrid,3,284946
+Cybersecurity Analyst,20,PhD,14,Manufacturing,Enterprise,USA,No,1,284869
+Cloud Engineer,16,Master,19,Manufacturing,Enterprise,USA,Yes,4,284841
+AI Engineer,14,Master,19,Media,Enterprise,USA,No,3,284753
+Machine Learning Engineer,19,PhD,8,Government,Enterprise,Canada,Yes,4,284746
+AI Engineer,14,PhD,2,Telecom,Enterprise,USA,Hybrid,2,284684
+AI Engineer,13,Master,16,Education,Enterprise,USA,Yes,3,284555
+AI Engineer,16,Master,18,Technology,Large,USA,No,5,284500
+Software Engineer,20,PhD,10,Education,Enterprise,USA,Yes,3,284442
+Machine Learning Engineer,20,PhD,16,Finance,Enterprise,UK,Yes,5,284435
+Machine Learning Engineer,16,PhD,16,Government,Enterprise,USA,Hybrid,0,284400
+AI Engineer,18,Master,1,Retail,Enterprise,USA,Hybrid,3,284229
+Machine Learning Engineer,17,PhD,9,Finance,Large,USA,Yes,4,284028
+Product Manager,20,PhD,17,Consulting,Large,USA,Yes,1,283993
+AI Engineer,12,PhD,13,Manufacturing,Enterprise,Canada,Yes,4,283813
+Machine Learning Engineer,15,PhD,6,Technology,Enterprise,USA,Yes,2,283709
+AI Engineer,19,PhD,15,Finance,Enterprise,Canada,No,2,283649
+AI Engineer,18,Diploma,16,Technology,Enterprise,USA,Yes,3,283622
+AI Engineer,17,PhD,13,Manufacturing,Large,USA,Hybrid,5,283339
+AI Engineer,17,Master,19,Technology,Enterprise,Canada,No,3,283306
+Machine Learning Engineer,20,Master,3,Media,Enterprise,USA,Yes,4,283292
+Cloud Engineer,20,Master,19,Telecom,Enterprise,USA,Yes,2,283245
+AI Engineer,20,PhD,1,Consulting,Large,USA,No,2,283073
+AI Engineer,16,Master,12,Technology,Enterprise,USA,No,1,282856
+Product Manager,15,PhD,12,Finance,Enterprise,USA,Yes,2,282846
+AI Engineer,17,Bachelor,6,Finance,Enterprise,USA,Yes,5,282807
+AI Engineer,18,PhD,9,Manufacturing,Large,USA,Yes,5,282795
+AI Engineer,17,PhD,15,Education,Enterprise,UK,Yes,3,282714
+AI Engineer,18,Bachelor,18,Healthcare,Enterprise,USA,Hybrid,1,282710
+Cloud Engineer,19,PhD,6,Retail,Enterprise,USA,No,4,282617
+Machine Learning Engineer,10,PhD,18,Telecom,Enterprise,USA,Yes,2,282476
+AI Engineer,11,PhD,19,Telecom,Enterprise,Canada,Yes,0,282381
+AI Engineer,17,PhD,14,Manufacturing,Large,USA,Hybrid,4,282322
+AI Engineer,20,PhD,12,Telecom,Large,USA,Hybrid,0,282188
+Cybersecurity Analyst,20,PhD,13,Finance,Enterprise,Canada,Yes,2,282169
+Product Manager,19,PhD,13,Technology,Large,USA,No,5,282125
+Product Manager,17,PhD,2,Government,Enterprise,USA,Yes,5,282108
+Product Manager,19,Master,18,Education,Enterprise,USA,Yes,1,282019
+AI Engineer,8,PhD,18,Technology,Enterprise,USA,Hybrid,3,281968
+AI Engineer,18,Bachelor,9,Manufacturing,Enterprise,USA,No,4,281747
+Machine Learning Engineer,18,PhD,8,Finance,Enterprise,USA,No,1,281723
+AI Engineer,16,PhD,4,Education,Large,USA,Yes,5,281468
+AI Engineer,8,PhD,17,Government,Enterprise,USA,Yes,4,281401
+AI Engineer,9,PhD,15,Telecom,Enterprise,USA,Yes,1,281345
+Machine Learning Engineer,20,PhD,15,Finance,Large,USA,No,4,281327
+Product Manager,19,PhD,13,Retail,Enterprise,USA,Hybrid,0,281271
+AI Engineer,16,PhD,15,Finance,Enterprise,Canada,Yes,0,281264
+AI Engineer,16,PhD,6,Education,Enterprise,Canada,Yes,1,281208
+DevOps Engineer,20,PhD,12,Government,Enterprise,USA,Yes,1,281048
+Cybersecurity Analyst,20,PhD,16,Technology,Enterprise,USA,Hybrid,2,281044
+Product Manager,15,Master,16,Telecom,Enterprise,USA,Yes,3,281036
+Product Manager,16,PhD,13,Government,Enterprise,USA,No,3,281012
+Product Manager,17,Master,17,Finance,Enterprise,USA,Hybrid,4,280931
+AI Engineer,17,Bachelor,13,Media,Enterprise,USA,No,1,280828
+Product Manager,13,PhD,13,Telecom,Enterprise,USA,Yes,3,280755
+Machine Learning Engineer,12,PhD,19,Telecom,Enterprise,USA,Hybrid,3,280715
+AI Engineer,11,PhD,16,Consulting,Enterprise,USA,No,1,280697
+AI Engineer,19,Bachelor,4,Technology,Enterprise,USA,Yes,4,280691
+AI Engineer,20,Master,7,Finance,Enterprise,UK,Yes,5,280691
+Data Scientist,20,Master,19,Finance,Enterprise,USA,Yes,3,280691
+AI Engineer,14,PhD,15,Technology,Enterprise,Canada,Yes,1,280690
+AI Engineer,15,PhD,15,Retail,Enterprise,Canada,Hybrid,0,280511
+Product Manager,20,PhD,17,Media,Enterprise,UK,Yes,5,280412
+Product Manager,20,PhD,4,Finance,Enterprise,USA,No,1,280347
+AI Engineer,17,PhD,5,Consulting,Enterprise,Canada,No,5,280298
+AI Engineer,17,PhD,19,Healthcare,Large,USA,No,0,280057
+AI Engineer,12,PhD,19,Finance,Large,USA,Yes,1,280047
+AI Engineer,12,PhD,18,Media,Large,USA,Yes,5,279962
+AI Engineer,15,Master,17,Manufacturing,Enterprise,Canada,Yes,0,279917
+AI Engineer,20,High School,14,Manufacturing,Enterprise,USA,No,5,279908
+DevOps Engineer,19,PhD,15,Education,Enterprise,USA,No,1,279852
+AI Engineer,18,PhD,2,Telecom,Large,USA,Hybrid,5,279848
+Software Engineer,20,PhD,6,Education,Enterprise,USA,Yes,4,279840
+Machine Learning Engineer,18,PhD,3,Retail,Enterprise,USA,Hybrid,3,279788
+Machine Learning Engineer,18,PhD,9,Consulting,Enterprise,Canada,Yes,1,279750
+AI Engineer,17,PhD,11,Media,Enterprise,UK,Yes,5,279667
+AI Engineer,15,Bachelor,5,Manufacturing,Enterprise,USA,Yes,5,279659
+AI Engineer,11,PhD,12,Telecom,Enterprise,USA,No,3,279657
+Product Manager,18,Master,15,Consulting,Enterprise,USA,Hybrid,4,279637
+AI Engineer,19,PhD,11,Telecom,Enterprise,UK,Hybrid,5,279594
+Cybersecurity Analyst,20,Master,18,Healthcare,Enterprise,USA,No,2,279521
+AI Engineer,16,Master,18,Retail,Enterprise,Canada,Yes,4,279483
+AI Engineer,11,PhD,7,Healthcare,Enterprise,USA,No,1,279407
+DevOps Engineer,20,PhD,12,Technology,Enterprise,USA,No,3,279333
+AI Engineer,17,Master,6,Consulting,Enterprise,USA,Hybrid,4,279227
+Cybersecurity Analyst,20,PhD,10,Technology,Enterprise,USA,No,4,279202
+AI Engineer,17,Diploma,17,Media,Enterprise,USA,No,2,279160
+Cloud Engineer,15,PhD,14,Media,Enterprise,USA,Yes,3,279094
+AI Engineer,19,Master,1,Manufacturing,Enterprise,USA,No,2,278989
+AI Engineer,18,PhD,2,Healthcare,Enterprise,UK,Yes,5,278944
+AI Engineer,19,PhD,9,Healthcare,Enterprise,UK,No,5,278916
+DevOps Engineer,20,PhD,3,Consulting,Enterprise,USA,No,3,278915
+Machine Learning Engineer,17,PhD,10,Healthcare,Enterprise,USA,No,1,278848
+Cybersecurity Analyst,20,Master,7,Media,Enterprise,USA,Yes,5,278834
+Machine Learning Engineer,20,PhD,9,Manufacturing,Large,USA,Yes,4,278794
+Cloud Engineer,16,PhD,11,Government,Enterprise,USA,No,4,278768
+AI Engineer,14,Master,14,Healthcare,Enterprise,USA,Hybrid,5,278740
+Product Manager,20,PhD,19,Healthcare,Enterprise,Canada,No,3,278684
+DevOps Engineer,20,PhD,3,Media,Enterprise,USA,Hybrid,5,278677
+Cloud Engineer,15,PhD,10,Manufacturing,Enterprise,USA,Yes,2,278650
+Backend Developer,20,PhD,15,Government,Enterprise,USA,No,5,278642
+Cloud Engineer,16,PhD,10,Finance,Enterprise,USA,Yes,4,278497
+AI Engineer,12,Master,5,Technology,Enterprise,USA,Yes,2,278487
+Product Manager,17,PhD,9,Manufacturing,Enterprise,USA,No,4,278327
+AI Engineer,11,Master,10,Finance,Enterprise,USA,Yes,5,278318
+AI Engineer,18,Bachelor,11,Finance,Enterprise,USA,Yes,1,278317
+Machine Learning Engineer,18,Master,13,Retail,Enterprise,USA,Hybrid,1,278283
+AI Engineer,9,PhD,16,Media,Enterprise,USA,No,2,278259
+Product Manager,15,PhD,9,Consulting,Enterprise,USA,Yes,3,278205
+AI Engineer,15,PhD,17,Manufacturing,Enterprise,UK,No,3,278197
+Cybersecurity Analyst,13,PhD,19,Media,Enterprise,USA,Yes,2,278114
+Cloud Engineer,18,Master,12,Consulting,Enterprise,USA,Hybrid,5,278083
+Product Manager,20,Master,16,Education,Large,USA,Yes,4,278082
+AI Engineer,19,PhD,8,Media,Enterprise,UK,No,4,278075
+AI Engineer,19,PhD,3,Education,Large,USA,Hybrid,4,277977
+Cybersecurity Analyst,17,PhD,11,Retail,Enterprise,USA,Yes,4,277974
+AI Engineer,12,PhD,4,Manufacturing,Enterprise,USA,Hybrid,3,277940
+Cybersecurity Analyst,19,PhD,5,Technology,Enterprise,USA,No,5,277927
+AI Engineer,20,Diploma,10,Telecom,Enterprise,USA,No,4,277899
+DevOps Engineer,20,PhD,13,Healthcare,Enterprise,Canada,Yes,5,277897
+Cloud Engineer,19,Master,12,Consulting,Enterprise,USA,Yes,4,277894
+Product Manager,20,Bachelor,11,Retail,Enterprise,USA,Yes,4,277861
+Cloud Engineer,20,PhD,3,Government,Enterprise,USA,No,5,277811
+AI Engineer,17,PhD,19,Telecom,Large,USA,No,2,277752
+AI Engineer,13,PhD,15,Manufacturing,Large,USA,No,3,277748
+Data Scientist,20,PhD,12,Media,Enterprise,USA,Hybrid,0,277670
+Machine Learning Engineer,20,PhD,9,Media,Enterprise,UK,Yes,2,277660
+Cybersecurity Analyst,19,PhD,14,Technology,Enterprise,USA,Yes,0,277610
+AI Engineer,19,PhD,5,Healthcare,Large,USA,Yes,2,277597
+AI Engineer,14,Master,1,Retail,Enterprise,USA,Yes,5,277477
+Cybersecurity Analyst,16,PhD,18,Finance,Enterprise,USA,No,4,277456
+Machine Learning Engineer,16,Master,14,Manufacturing,Enterprise,USA,No,5,277259
+Product Manager,18,PhD,18,Technology,Large,USA,Yes,2,277258
+AI Engineer,20,Bachelor,1,Telecom,Enterprise,USA,No,1,277247
+Cloud Engineer,20,PhD,2,Education,Enterprise,USA,Hybrid,5,277223
+Machine Learning Engineer,19,PhD,16,Manufacturing,Enterprise,Canada,No,2,277168
+AI Engineer,5,PhD,12,Telecom,Enterprise,USA,Hybrid,5,277135
+Frontend Developer,19,PhD,18,Media,Enterprise,USA,Yes,5,277053
+AI Engineer,20,Diploma,5,Technology,Enterprise,USA,No,1,276989
+AI Engineer,13,Master,8,Media,Enterprise,USA,Yes,3,276955
+Data Scientist,19,PhD,6,Retail,Enterprise,USA,Yes,4,276944
+Product Manager,12,PhD,18,Technology,Enterprise,USA,Yes,0,276874
+AI Engineer,20,PhD,16,Finance,Enterprise,Germany,No,2,276868
+AI Engineer,12,Master,7,Consulting,Enterprise,USA,No,5,276759
+Machine Learning Engineer,17,Bachelor,15,Healthcare,Enterprise,USA,Yes,4,276733
+AI Engineer,15,PhD,16,Government,Large,USA,Hybrid,1,276672
+Cloud Engineer,17,PhD,5,Education,Enterprise,USA,Yes,3,276666
+AI Engineer,15,PhD,17,Retail,Enterprise,UK,No,0,276526
+Machine Learning Engineer,15,PhD,10,Healthcare,Enterprise,USA,Hybrid,1,276404
+AI Engineer,15,Master,13,Manufacturing,Enterprise,USA,No,1,276374
+AI Engineer,19,Master,11,Retail,Enterprise,Canada,Hybrid,5,276364
+Machine Learning Engineer,19,PhD,18,Retail,Enterprise,Canada,No,1,276336
+AI Engineer,12,PhD,3,Government,Enterprise,USA,No,2,276261
+AI Engineer,18,Master,17,Finance,Large,USA,Hybrid,0,276259
+Machine Learning Engineer,18,Master,9,Telecom,Enterprise,USA,Yes,1,276240
+AI Engineer,16,Master,7,Telecom,Enterprise,USA,No,1,276207
+AI Engineer,20,Diploma,15,Finance,Enterprise,USA,No,3,276168
+Cloud Engineer,20,PhD,7,Manufacturing,Enterprise,USA,No,1,276099
+AI Engineer,13,Master,11,Manufacturing,Enterprise,USA,No,3,276090
+Machine Learning Engineer,15,PhD,2,Consulting,Enterprise,USA,Hybrid,5,276090
+AI Engineer,12,PhD,5,Education,Enterprise,USA,Hybrid,5,276024
+Cybersecurity Analyst,14,PhD,11,Government,Enterprise,USA,Yes,5,275896
+Machine Learning Engineer,18,PhD,9,Healthcare,Large,USA,Yes,2,275776
+AI Engineer,13,Master,15,Telecom,Enterprise,USA,Hybrid,5,275721
+AI Engineer,15,PhD,15,Education,Enterprise,UK,Hybrid,5,275638
+Product Manager,19,PhD,2,Media,Enterprise,USA,No,0,275635
+Machine Learning Engineer,19,PhD,11,Telecom,Enterprise,Canada,Hybrid,3,275569
+Product Manager,15,PhD,5,Media,Enterprise,USA,Yes,3,275565
+AI Engineer,20,Master,15,Technology,Enterprise,Canada,Hybrid,0,275471
+Cloud Engineer,17,PhD,19,Education,Enterprise,Canada,Yes,2,275454
+AI Engineer,20,Diploma,16,Media,Enterprise,USA,Hybrid,0,275382
+AI Engineer,14,PhD,14,Consulting,Large,USA,Yes,0,275360
+AI Engineer,8,Master,19,Healthcare,Enterprise,USA,Yes,1,275293
+Product Manager,20,PhD,8,Telecom,Large,USA,Yes,5,275291
+Machine Learning Engineer,19,PhD,10,Retail,Large,USA,Yes,3,275245
+Machine Learning Engineer,13,Master,19,Media,Enterprise,USA,Hybrid,5,275225
+Data Scientist,18,Master,14,Finance,Enterprise,USA,Yes,4,275199
+AI Engineer,17,PhD,4,Telecom,Enterprise,Canada,Yes,2,275172
+Machine Learning Engineer,19,Bachelor,7,Government,Enterprise,USA,Yes,3,275139
+Machine Learning Engineer,17,Master,16,Education,Enterprise,USA,Hybrid,2,275132
+Cloud Engineer,19,Master,11,Telecom,Enterprise,USA,Hybrid,3,275092
+AI Engineer,10,Master,18,Telecom,Enterprise,USA,No,5,275057
+AI Engineer,18,Diploma,10,Technology,Enterprise,USA,Hybrid,3,275044
+Cloud Engineer,18,PhD,16,Retail,Enterprise,USA,Hybrid,2,275036
+AI Engineer,16,Bachelor,16,Technology,Enterprise,USA,No,4,274942
+AI Engineer,16,Diploma,15,Media,Enterprise,USA,No,5,274843
+DevOps Engineer,20,PhD,7,Government,Enterprise,USA,Hybrid,4,274832
+AI Engineer,13,Master,12,Retail,Enterprise,USA,No,2,274732
+AI Engineer,18,PhD,1,Education,Enterprise,UK,Hybrid,5,274727
+AI Engineer,19,Master,19,Healthcare,Enterprise,UK,Yes,0,274701
+Product Manager,17,PhD,14,Consulting,Large,USA,Yes,5,274678
+Data Scientist,20,PhD,13,Manufacturing,Enterprise,USA,No,3,274676
+Machine Learning Engineer,16,PhD,4,Government,Enterprise,USA,No,4,274669
+Product Manager,16,Master,14,Healthcare,Enterprise,USA,Yes,1,274666
+Product Manager,19,PhD,16,Finance,Enterprise,UK,Yes,5,274646
+AI Engineer,13,PhD,15,Telecom,Enterprise,Canada,No,2,274640
+AI Engineer,15,PhD,8,Finance,Large,USA,Yes,4,274623
+AI Engineer,15,Diploma,19,Manufacturing,Enterprise,USA,No,5,274549
+AI Engineer,20,PhD,13,Technology,Medium,USA,Hybrid,5,274496
+Machine Learning Engineer,20,PhD,9,Consulting,Large,USA,No,2,274427
+Machine Learning Engineer,12,PhD,16,Manufacturing,Enterprise,USA,Yes,0,274425
+Product Manager,14,PhD,11,Education,Enterprise,USA,No,5,274399
+AI Engineer,16,Diploma,16,Telecom,Enterprise,USA,Yes,2,274382
+AI Engineer,20,Diploma,13,Media,Enterprise,Canada,Yes,5,274255
+AI Engineer,19,PhD,16,Finance,Enterprise,UK,Hybrid,0,274200
+AI Engineer,12,Master,4,Education,Enterprise,USA,Yes,4,274104
+Machine Learning Engineer,17,PhD,5,Media,Enterprise,Canada,Yes,4,274103
+AI Engineer,17,PhD,15,Media,Medium,USA,Yes,4,274068
+Machine Learning Engineer,16,Master,14,Finance,Enterprise,USA,Yes,2,274024
+Data Scientist,20,PhD,8,Telecom,Enterprise,USA,Hybrid,4,274007
+AI Engineer,15,Master,3,Retail,Enterprise,USA,Yes,2,273990
+Product Manager,20,Master,7,Telecom,Enterprise,USA,No,1,273977
+Cybersecurity Analyst,19,PhD,5,Media,Enterprise,USA,Yes,3,273970
+AI Engineer,19,Master,2,Consulting,Enterprise,USA,Hybrid,0,273890
+Machine Learning Engineer,19,Bachelor,9,Consulting,Enterprise,USA,Yes,4,273885
+Product Manager,16,PhD,9,Media,Enterprise,USA,No,4,273858
+Machine Learning Engineer,20,High School,17,Government,Enterprise,USA,Yes,1,273772
+Product Manager,15,PhD,14,Media,Enterprise,Canada,Yes,5,273765
+Machine Learning Engineer,20,High School,14,Healthcare,Enterprise,USA,Yes,4,273696
+AI Engineer,20,PhD,18,Healthcare,Enterprise,UK,No,0,273607
+AI Engineer,15,Bachelor,10,Healthcare,Enterprise,USA,No,1,273521
+Machine Learning Engineer,18,PhD,11,Government,Enterprise,Canada,No,3,273512
+Machine Learning Engineer,20,Bachelor,4,Telecom,Enterprise,USA,Yes,1,273460
+Backend Developer,20,Master,19,Government,Enterprise,USA,Yes,4,273406
+DevOps Engineer,19,PhD,16,Telecom,Enterprise,Canada,No,4,273344
+Product Manager,17,Master,10,Healthcare,Enterprise,USA,No,3,273334
+AI Engineer,16,Master,6,Finance,Enterprise,USA,Hybrid,2,273325
+Machine Learning Engineer,19,Diploma,19,Media,Enterprise,USA,Yes,2,273280
+AI Engineer,15,Bachelor,12,Telecom,Enterprise,USA,No,3,273262
+Machine Learning Engineer,19,PhD,9,Healthcare,Enterprise,Canada,No,2,273155
+AI Engineer,19,Bachelor,11,Consulting,Large,USA,Yes,4,273146
+AI Engineer,19,PhD,13,Media,Medium,USA,Yes,3,273089
+AI Engineer,15,Master,6,Retail,Enterprise,USA,Yes,1,273073
+AI Engineer,17,Master,10,Consulting,Enterprise,Canada,Hybrid,5,273039
+AI Engineer,16,Master,13,Telecom,Enterprise,Canada,No,5,272960
+Cybersecurity Analyst,12,PhD,19,Telecom,Enterprise,USA,Yes,5,272903
+DevOps Engineer,20,Bachelor,19,Healthcare,Enterprise,USA,No,5,272845
+AI Engineer,17,Master,2,Healthcare,Large,USA,Yes,5,272826
+Product Manager,19,Bachelor,17,Government,Enterprise,USA,Yes,1,272800
+AI Engineer,6,PhD,13,Technology,Enterprise,USA,Yes,0,272690
+Product Manager,18,Master,2,Education,Enterprise,USA,No,4,272565
+AI Engineer,20,Master,12,Media,Large,USA,No,1,272526
+Frontend Developer,19,PhD,17,Media,Enterprise,USA,No,5,272517
+Data Scientist,18,PhD,5,Manufacturing,Enterprise,USA,No,5,272488
+AI Engineer,12,PhD,14,Telecom,Enterprise,Canada,No,5,272471
+Product Manager,20,Master,19,Technology,Large,USA,Yes,3,272469
+Cloud Engineer,18,Master,17,Media,Enterprise,USA,No,3,272437
+Machine Learning Engineer,20,Bachelor,11,Consulting,Enterprise,USA,Hybrid,5,272421
+Machine Learning Engineer,20,PhD,6,Healthcare,Enterprise,UK,Yes,2,272381
+Machine Learning Engineer,13,Master,17,Healthcare,Enterprise,USA,No,5,272338
+Product Manager,20,Bachelor,19,Government,Enterprise,USA,No,0,272330
+Data Scientist,15,PhD,16,Education,Enterprise,USA,No,5,272305
+AI Engineer,16,Bachelor,8,Education,Enterprise,USA,No,1,272210
+Cloud Engineer,20,PhD,14,Consulting,Enterprise,UK,Yes,0,272195
+Machine Learning Engineer,17,Master,18,Manufacturing,Enterprise,Canada,Yes,5,272194
+Machine Learning Engineer,18,Master,15,Manufacturing,Enterprise,Canada,Yes,4,272190
+Machine Learning Engineer,7,PhD,17,Education,Enterprise,USA,Yes,5,272101
+Machine Learning Engineer,13,PhD,10,Technology,Enterprise,USA,Hybrid,5,272097
+Cloud Engineer,20,PhD,17,Retail,Large,USA,No,3,272086
+AI Engineer,16,Master,15,Retail,Enterprise,Canada,Yes,0,272040
+AI Engineer,17,PhD,19,Finance,Large,Canada,No,2,272020
+Product Manager,18,Master,18,Education,Enterprise,Canada,Yes,5,272018
+Machine Learning Engineer,20,Diploma,10,Technology,Enterprise,USA,No,3,271976
+DevOps Engineer,20,PhD,10,Retail,Enterprise,USA,Hybrid,0,271936
+Cloud Engineer,18,Master,15,Media,Enterprise,USA,Yes,5,271880
+Machine Learning Engineer,18,Bachelor,16,Education,Enterprise,USA,No,5,271877
+DevOps Engineer,20,PhD,12,Education,Enterprise,Canada,No,4,271872
+Software Engineer,19,PhD,10,Retail,Enterprise,USA,Yes,0,271832
+Data Scientist,15,PhD,15,Healthcare,Enterprise,USA,Yes,2,271803
+AI Engineer,17,Bachelor,15,Education,Enterprise,Canada,Yes,4,271737
+AI Engineer,14,PhD,17,Education,Enterprise,Canada,No,2,271663
+Software Engineer,16,PhD,16,Telecom,Enterprise,USA,Yes,3,271659
+AI Engineer,14,PhD,7,Media,Enterprise,Canada,Hybrid,2,271643
+AI Engineer,14,Master,19,Government,Enterprise,USA,No,0,271630
+AI Engineer,16,Master,18,Healthcare,Large,USA,Yes,1,271566
+Machine Learning Engineer,20,PhD,6,Manufacturing,Enterprise,Canada,Hybrid,1,271545
+Cloud Engineer,15,PhD,13,Government,Enterprise,USA,No,0,271544
+Product Manager,10,PhD,10,Media,Enterprise,USA,Yes,5,271542
+Data Scientist,19,PhD,18,Telecom,Large,USA,Yes,3,271515
+Product Manager,19,PhD,6,Consulting,Large,USA,Yes,3,271513
+Product Manager,18,PhD,2,Finance,Enterprise,USA,No,0,271479
+AI Engineer,17,Master,7,Consulting,Enterprise,Canada,Hybrid,5,271436
+Backend Developer,20,PhD,18,Technology,Enterprise,USA,No,1,271414
+Backend Developer,20,PhD,15,Healthcare,Enterprise,USA,Yes,1,271409
+AI Engineer,15,PhD,4,Retail,Enterprise,Canada,Hybrid,4,271350
+AI Engineer,13,Diploma,18,Education,Enterprise,USA,Yes,4,271296
+AI Engineer,12,Master,11,Healthcare,Enterprise,USA,Yes,0,271271
+Machine Learning Engineer,20,PhD,8,Technology,Enterprise,UK,No,4,271265
+AI Engineer,18,Master,15,Technology,Large,USA,Hybrid,2,271236
+Backend Developer,16,PhD,14,Media,Enterprise,USA,Yes,3,271230
+AI Engineer,8,PhD,12,Retail,Enterprise,USA,No,0,271218
+Product Manager,19,Master,6,Telecom,Enterprise,USA,Yes,1,271192
+Machine Learning Engineer,18,PhD,4,Consulting,Enterprise,Canada,No,4,271175
+AI Engineer,18,Diploma,4,Healthcare,Enterprise,USA,Yes,4,271173
+AI Engineer,19,Master,4,Manufacturing,Large,USA,No,5,271163
+AI Engineer,19,Bachelor,15,Telecom,Large,USA,Yes,0,271162
+AI Engineer,17,PhD,6,Education,Enterprise,UK,Hybrid,3,271122
+Machine Learning Engineer,9,PhD,18,Education,Enterprise,USA,Hybrid,2,271113
+DevOps Engineer,20,Master,18,Healthcare,Enterprise,USA,No,2,271080
+Machine Learning Engineer,17,PhD,19,Finance,Large,USA,Hybrid,1,271028
+Data Scientist,13,PhD,14,Retail,Enterprise,USA,Yes,5,271013
+AI Engineer,20,Master,11,Healthcare,Large,USA,Hybrid,1,271011
+AI Engineer,20,Master,3,Healthcare,Enterprise,Canada,Hybrid,5,271010
+Cloud Engineer,20,Master,17,Manufacturing,Large,USA,Hybrid,5,270977
