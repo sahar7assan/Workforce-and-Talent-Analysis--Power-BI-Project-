@@ -140,8 +140,11 @@ Based on the findings, organizations should consider:
 
 ## 📸 Dashboard Preview
 
+### Home Page
+![Home Page](images/home-page.png)
+
 ### Executive Overview
-![Executive Overview](images/overview.png)
+![Executive Overview](images/overveiw.png)
 
 ### Workforce Analysis
 ![Workforce Analysis](images/workforce.png)
@@ -160,8 +163,8 @@ Based on the findings, organizations should consider:
 ## 👤 Author 
 This project is Team Working project 
 Team Member:
-** Sahar Hassan 
-** Rehaf Mohamed
+** Sahar Hassan **
+** Rehaf Mohamed **
 
 Data Analyst | Power BI Developer
 
