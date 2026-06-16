@@ -140,9 +140,6 @@ Based on the findings, organizations should consider:
 
 ## 📸 Dashboard Preview
 
-### Home Page
-![Home Page](images/home-page.png)
-
 ### Executive Overview
 ![Executive Overview](images/overveiw.png)
 
