@@ -170,6 +170,6 @@ Data Analyst | Power BI Developer
 
 Explore the live Power BI report here:
 
-🔗 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE1ZDUxNmUtNGJjYy00MGI5LTk0NmQtYzA1MjRhZjI0MDMzIiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9)**
+🔗 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmNiNjZiNmUtZDEyYi00NTNkLWFkMDEtNGZiOTg4YjFkNzU4IiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9)**
 
 ⭐ If you found this project useful, consider giving it a star.
